@@ -1,0 +1,9 @@
+C:\Users\DenisioRodrigues\source\repos\HackerRank\HackerRank\HackerRank\bin\Debug\netstandard2.0\HackerRank.deps.json
+C:\Users\DenisioRodrigues\source\repos\HackerRank\HackerRank\HackerRank\bin\Debug\netstandard2.0\HackerRank.dll
+C:\Users\DenisioRodrigues\source\repos\HackerRank\HackerRank\HackerRank\bin\Debug\netstandard2.0\HackerRank.pdb
+C:\Users\DenisioRodrigues\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\netstandard2.0\HackerRank.csprojAssemblyReference.cache
+C:\Users\DenisioRodrigues\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\netstandard2.0\HackerRank.AssemblyInfoInputs.cache
+C:\Users\DenisioRodrigues\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\netstandard2.0\HackerRank.AssemblyInfo.cs
+C:\Users\DenisioRodrigues\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\netstandard2.0\HackerRank.csproj.CoreCompileInputs.cache
+C:\Users\DenisioRodrigues\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\netstandard2.0\HackerRank.dll
+C:\Users\DenisioRodrigues\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\netstandard2.0\HackerRank.pdb

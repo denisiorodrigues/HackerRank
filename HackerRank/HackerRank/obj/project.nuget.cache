@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pS/07ZI7BQB91hg5QaBxX7Es9uRgakP0gjho3WXc9n3U57RyynBmnW+Oo6OszuF89bEdsI5F28sil/zWPA1eNA==",
+  "dgSpecHash": "9mZR2i62ceZQLlgf1VfubX20w63YVoKRFvxYEVuOIbnqaHyuWTmuxmOsCkgCYlHrXWTHitCDsblIK4RVDWUG4A==",
   "success": true,
-  "projectFilePath": "D:\\projetos\\estudos\\C#\\HackerRank\\HackerRank\\HackerRank\\HackerRank.csproj",
+  "projectFilePath": "C:\\Users\\DenisioRodrigues\\source\\repos\\HackerRank\\HackerRank\\HackerRank\\HackerRank.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\denisio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DenisioRodrigues\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
